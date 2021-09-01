@@ -1,0 +1,2 @@
+L'esercizio richiede di realizzare un layout secondo il modello grafico per mobile e desktop, in tutto e per tutto simile, utilizzando tutte le tecniche apprese ad oggi.
+Andrà inserita anche una media query per la stampa ricalcando il file di esempio "stampa.pdf"
